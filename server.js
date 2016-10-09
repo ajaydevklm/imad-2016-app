@@ -25,13 +25,7 @@ var articles = {
     heading: 'Article Two',
     date: 'oct 9 2016',
     content: `
-    <p> This is my second article </p>
-          <p> This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. 
-          </p>
-          <p> This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. 
-          </p>
-          <p> This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. 
-          </p>`
+    <p> This is my second article </p>`
     
 },
 'article-three' : { 
@@ -39,13 +33,7 @@ var articles = {
     heading: 'Article Three',
     date: 'oct 9 2016',
     content: `
-    <p> This is my third article </p>
-          <p> This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. 
-          </p>
-          <p> This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. 
-          </p>
-          <p> This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. This is the content of article. 
-          </p>`
+    <p> This is my third article </p>`
     
 }
 };
